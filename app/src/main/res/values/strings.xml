@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Custom Contact List</string>
+    <string name="tvName">Name</string>
+    <string name="tvCountryCode">Code</string>
+    <string name="tvPhoneNum">Number</string>
+</resources>
